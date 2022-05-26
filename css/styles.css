@@ -108,3 +108,13 @@ h1{
    border-radius: 16px; 
 
   }
+
+  .navbar-toggler {
+      outline: transparent;
+      border: transparent;
+  }
+
+  .navbar-toggler:hover, .navbar-toggler:focus {
+      outline: transparent;
+      border: transparent;
+  }
